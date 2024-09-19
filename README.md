@@ -1,4 +1,4 @@
-# Markdown-algumas-funcionalidades
+# Markdown-algumas-funcionalidades ✔️
 Aula de guia da Linguagem Markdown do Curso em Vídeo do curso de Git e GitHub
 
 Estou aprendendo ~~linguagem~~ **Markdown** no __Curso em Vídeo__ de *Git* e _GitHub_
