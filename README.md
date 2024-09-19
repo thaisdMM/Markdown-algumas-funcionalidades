@@ -54,3 +54,18 @@ Num | Nome | Nota
 3 | André | 8,5
 
 Terminou a tabela.
+
+*comando:* Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript.
+
+*trechos* de *programa:* Olha meu programa em Python:
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+```
+
+É possivel colocar o print do código:
+
+<img width="923" alt="Captura de ecrã 2024-09-19, às 15 59 36" src="https://github.com/user-attachments/assets/1effa435-2419-49ec-8b5a-391353762d36">
