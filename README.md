@@ -69,3 +69,5 @@ else:
 É possivel colocar o print do código:
 
 <img width="923" alt="Captura de ecrã 2024-09-19, às 15 59 36" src="https://github.com/user-attachments/assets/1effa435-2419-49ec-8b5a-391353762d36">
+
+Dá para acrescentar ___emojis___ com o __*dois-pontos*__ e digitando o nome do emoji 🥇 🖖 🐔 🇧🇷
