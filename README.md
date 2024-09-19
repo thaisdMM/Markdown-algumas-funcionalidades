@@ -18,7 +18,7 @@ Podemos __*misturar*__ configurações
 2. Teste 2
 3. Teste 3
    1. subitem 1
-   2. subitem 2
+      1. subitem 2
 1. Teste 4
 
 ### Lista demarcada:
@@ -27,7 +27,7 @@ Podemos __*misturar*__ configurações
 - Teste 2
 * Teste 3
    * subitem 1
-   - subitem 2
+      - subitem 2
  * Teste 4
 
 ### lista de tarefas:
@@ -70,4 +70,12 @@ else:
 
 <img width="923" alt="Captura de ecrã 2024-09-19, às 15 59 36" src="https://github.com/user-attachments/assets/1effa435-2419-49ec-8b5a-391353762d36">
 
+
 Dá para acrescentar ___emojis___ com o __*dois-pontos*__ e digitando o nome do emoji 🥇 🖖 🐔 🇧🇷
+
+Citar uma pessoa:
+Conteúdo de acordo com a aula de @gustavoguanabara sobre Git e GitHub.
+
+#### Quote:
+> Será que vai chover???
+
