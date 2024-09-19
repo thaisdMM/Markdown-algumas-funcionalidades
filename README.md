@@ -44,3 +44,13 @@ Adicionamos a imagem __arrastando__ a imagem do nosso *pc*.
    ![mona-the-rivetertocat – pequena](https://github.com/user-attachments/assets/2ab22451-9690-4fe4-9d61-4fc8b10b9988)
 
 __*Criando*__ __*link:*__ [Acesse meu GitHub](https://github.com/thaisdMM)
+
+### Tabelas
+
+Num | Nome | Nota
+---|---|---
+1  | Thaís | 9,0
+2 | Gustavo | 10,0
+3 | André | 8,5
+
+Terminou a tabela.
